@@ -1,15 +1,15 @@
-function logshout(string) {
+function shout(string) {
   return string.toUpperCase()
 }
-function logwhisper(string){
+function whisper(string){
   return string.toLowerCase()
 }
 
-function logShout(string) {
+function Shout(string) {
   return string.toUpperCase()
 }
 
-function logWhisper(string){
+function Whisper(string){
   return string.toLowerCase()
 }
 
